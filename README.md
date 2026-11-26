@@ -14,25 +14,17 @@ Ich bin Til Kams, Gründer von [NEWAVE Forward](https://www.newaveforward.de) in
 
 ### Wo stehen Sie gerade? *Hier setzen wir an.*
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<img src="assets/leistung-weiterbringen.svg" width="100%" alt="Illustration: ein Gebäude im Gerüst wird weitergebaut">
-<p><b>Bestehendes weiterbringen</b></p>
-<p>Projektübernahme und Bestandsaufnahme. Relaunch, Stabilisierung und Schnittstellen. Laufende Beratung und Weiterentwicklung.</p>
-</td>
-<td width="33%" valign="top">
-<img src="assets/leistung-aufbauen.svg" width="100%" alt="Illustration: ein Shop entsteht auf einem Bauplan">
-<p><b>Neues aufbauen</b></p>
-<p>Strategie, Konzeption und Design. Websites, Shops und individuelle Systeme. Entwicklung und Einführung.</p>
-</td>
-<td width="33%" valign="top">
-<img src="assets/leistung-ki.svg" width="100%" alt="Illustration: ein Arbeitsplatz mit KI-Anwendung und Workshop-Tafel">
-<p><b>KI nutzbar machen</b></p>
-<p>Praxisnahe Schulungen und Workshops. KI-Beratung und Automatisierung. Individuelle KI-Anwendungen.</p>
-</td>
-</tr>
-</table>
+<p>
+<img src="assets/leistung-weiterbringen.svg" width="32%" alt="Illustration: ein Gebäude im Gerüst wird weitergebaut">
+<img src="assets/leistung-aufbauen.svg" width="32%" alt="Illustration: ein Shop entsteht auf einem Bauplan">
+<img src="assets/leistung-ki.svg" width="32%" alt="Illustration: ein Arbeitsplatz mit KI-Anwendung und Workshop-Tafel">
+</p>
+
+**01 · Bestehendes weiterbringen.** Projektübernahme und Bestandsaufnahme. Relaunch, Stabilisierung und Schnittstellen. Laufende Beratung und Weiterentwicklung.
+
+**02 · Neues aufbauen.** Strategie, Konzeption und Design. Websites, Shops und individuelle Systeme. Entwicklung und Einführung.
+
+**03 · KI nutzbar machen.** Praxisnahe Schulungen und Workshops. KI-Beratung und Automatisierung. Individuelle KI-Anwendungen.
 
 <sub>PROJEKTE</sub>
 

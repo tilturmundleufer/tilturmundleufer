@@ -14,25 +14,17 @@ I'm Til Kams, founder of [NEWAVE Forward](https://www.newaveforward.de) in Berli
 
 ### Where are you right now? *That's where we start.*
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<img src="assets/leistung-weiterbringen.svg" width="100%" alt="Illustration: a building under scaffolding being extended">
-<p><b>Moving existing projects forward</b></p>
-<p>Project takeover and assessment. Relaunches, stabilization and integrations. Ongoing consulting and development.</p>
-</td>
-<td width="33%" valign="top">
-<img src="assets/leistung-aufbauen.svg" width="100%" alt="Illustration: a shop taking shape on a blueprint">
-<p><b>Building something new</b></p>
-<p>Strategy, concept and design. Websites, online shops and custom software. Development and rollout.</p>
-</td>
-<td width="33%" valign="top">
-<img src="assets/leistung-ki.svg" width="100%" alt="Illustration: a workspace with an AI application and a workshop board">
-<p><b>Making AI useful</b></p>
-<p>Hands-on training and workshops. AI consulting and automation. Custom AI applications.</p>
-</td>
-</tr>
-</table>
+<p>
+<img src="assets/leistung-weiterbringen.svg" width="32%" alt="Illustration: a building under scaffolding being extended">
+<img src="assets/leistung-aufbauen.svg" width="32%" alt="Illustration: a shop taking shape on a blueprint">
+<img src="assets/leistung-ki.svg" width="32%" alt="Illustration: a workspace with an AI application and a workshop board">
+</p>
+
+**01 · Moving existing projects forward.** Project takeover and assessment. Relaunches, stabilization and integrations. Ongoing consulting and development.
+
+**02 · Building something new.** Strategy, concept and design. Websites, online shops and custom software. Development and rollout.
+
+**03 · Making AI useful.** Hands-on training and workshops. AI consulting and automation. Custom AI applications.
 
 <sub>PROJECTS</sub>
 
